@@ -44,7 +44,7 @@ We are proud to introduce the dedicated organizers who make GDG Ajah a thriving 
 
 ### Oluwaseyi Ayodele
 
-![Oluwaseyi Ayodele](https://github.com/GDG-Ajah/.github/blob/main/assets/oluwaseyi.jpg)
+<img src="https://github.com/GDG-Ajah/.github/blob/main/assets/oluwaseyi.jpg" alt="Oluwaseyi Ayodele" width="300" height="200">
 
 Seyi is dedicated to utilizing technology to tackle both community and business challenges. He has a deep enthusiasm for pioneering solutions, educational initiatives, startup development, fostering developer communities, contributing to open-source projects, and empowering individuals through valuable learning experiences. Seyi is driven by a strong desire to share his knowledge and passion for technology, making a positive impact in the field.
 
