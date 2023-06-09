@@ -1,6 +1,6 @@
 # Google Developer Group Ajah
 
-![GDG Logo]('/asset/logo.png')
+![GDG Logo]('./asset/logo.png')
 
 👋 Welcome to our Community GitHub Organization! This organization serves as a hub for various activities, projects, and collaborations within our vibrant community. We're excited to have you on board and can't wait to see what we can achieve together!
 
