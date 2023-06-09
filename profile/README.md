@@ -44,7 +44,7 @@ We are proud to introduce the dedicated organizers who make GDG Ajah a thriving 
 
 ### Oluwaseyi Ayodele
 
-![Oluwaseyi Ayodele](../assets/oluwaseyi.jpg)
+![Oluwaseyi Ayodele](https://github.com/GDG-Ajah/.github/blob/main/assets/oluwaseyi.jpg)
 
 Seyi is dedicated to utilizing technology to tackle both community and business challenges. He has a deep enthusiasm for pioneering solutions, educational initiatives, startup development, fostering developer communities, contributing to open-source projects, and empowering individuals through valuable learning experiences. Seyi is driven by a strong desire to share his knowledge and passion for technology, making a positive impact in the field.
 
@@ -52,7 +52,7 @@ Connect with Seyi: [LinkedIn](https://www.linkedin.com/in/oluwaseyiayodele/) | [
 
 ### Loveth Nwokike
 
-![Loveth Nwokike](../assets/loveth.jpg)
+![Loveth Nwokike](https://github.com/GDG-Ajah/.github/blob/main/assets/loveth.jpg)
 
 Loveth is a skilled professional in the field of Information Technology and Services. Her areas of expertise include Flutter, Android development, and mobile app development. As an integral part of our organizing team, Loveth actively contributes to the Women Techmakers community, advocating for diversity and inclusivity within the tech industry. She is also adept at technical writing, effectively conveying intricate concepts in a comprehensible manner. Loveth's unwavering passion for technology and her commitment to continuous growth make her an invaluable asset to our community.
 
@@ -60,7 +60,7 @@ Connect with Loveth: [LinkedIn](https://linkedin.com/in/lovethnwokike) | [Twitte
 
 ### Ogbonna Gideon
 
-![Ogbonna Gideon](../assets/gideon.jpg)
+![Ogbonna Gideon](https://github.com/GDG-Ajah/.github/blob/main/assets/gideon.jpg)
 
 Gideon, a Senior Mobile Developer at Demz Analytics, brings a wealth of expertise to our team. Located in AJAH, he specializes in E-Learning solutions, leveraging his skills in Flutter, UX Design, and Android and iOS app development. Gideon's proficiency in these areas enables him to create engaging and user-friendly applications. As an organizer, he plays a vital role in shaping our community's events and initiatives. Gideon's dedication to delivering high-quality mobile experiences and his passion for staying at the forefront of technology make him an invaluable asset to our team.
 
