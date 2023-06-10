@@ -36,7 +36,7 @@ Join the GDG Ajah Community and be a part of the dynamic tech ecosystem in Ajah.
 
 - [GDG Ajah Slack Channel](https://gdgajah.slack.com/join/shared_invite/zt-1wg3udxzq-sHxFVrE_hF_H6NEsJmwhjg#/shared-invite/email)
 - [GDG Ajah GitHub Discussions](https://github.com/orgs/GDG-Ajah/discussions)
-- [GDG Ajah WhatsApp Community](https://chat.whatsapp.com/BPmDnFpcKyQGfAPKJJJIvi)
+- [GDG Ajah WhatsApp Community](https://chat.whatsapp.com/INh3Wrw87zO8N8KiPsZkLb)
 
 ## Meet the Organizers
 
