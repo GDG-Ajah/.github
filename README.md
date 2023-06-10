@@ -58,7 +58,7 @@ Stay tuned for announcements, events, and opportunities to get involved!
 
 ## Contact
 
-If you have any questions, suggestions, or need support, don't hesitate to reach out to our community team at [Contact Details]. We're here to assist you and make your community experience remarkable.
+If you have any questions, suggestions, or need support, don't hesitate to reach out to our community team at gdgajah1@gmail.com. We're here to assist you and make your community experience remarkable.
 
 Thank you for joining our Community GitHub Organization. Let's build, learn, and grow together!
 
